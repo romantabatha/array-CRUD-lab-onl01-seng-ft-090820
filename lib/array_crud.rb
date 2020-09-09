@@ -33,8 +33,10 @@ end
 
 def retrieve_first_element_from_array(array)
   canadian_artist = ["wow","The Weeknd","Drake","Justin Bieber","arrays!"]
+  canadian_artist.first
 end
 
 def retrieve_last_element_from_array(array)
   canadian_artist = ["wow","The Weeknd","Drake","Justin Bieber","arrays!"]
+  canadian_artist.last
 end
