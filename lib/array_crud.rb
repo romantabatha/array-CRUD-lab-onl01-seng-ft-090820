@@ -13,7 +13,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   canadian_artist = ["The Weeknd","Drake","Justin Bieber","Celine Dion"]
-  canadian_artist.push("wow")
+  canadian_artist.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
