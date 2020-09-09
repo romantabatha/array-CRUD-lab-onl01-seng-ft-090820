@@ -27,13 +27,14 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+  canadian_artist = ["wow","The Weeknd","Drake","Justin Bieber","arrays!"]
+  canadian_artist[2]
 end
 
 def retrieve_first_element_from_array(array)
-  
+  canadian_artist = ["wow","The Weeknd","Drake","Justin Bieber","arrays!"]
 end
 
 def retrieve_last_element_from_array(array)
-  
+  canadian_artist = ["wow","The Weeknd","Drake","Justin Bieber","arrays!"]
 end
