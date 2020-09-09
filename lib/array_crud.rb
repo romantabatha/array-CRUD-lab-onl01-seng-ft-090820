@@ -1,5 +1,5 @@
 def create_an_empty_array
-  
+  canadian_artist = ["The Weeknd","Drake","Justin Bieber"]
 end
 
 def create_an_array
