@@ -1,5 +1,5 @@
 def create_an_empty_array
-  canadian_artist = []
+  empty_array = [ ]
 end
 
 def create_an_array
