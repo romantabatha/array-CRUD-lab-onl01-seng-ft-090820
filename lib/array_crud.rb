@@ -7,6 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  canadian_artist = ["The Weeknd","Drake","Justin Bieber","Celine Dion"]
   canadian_artist << "Avril Lavigne"
 end
 
